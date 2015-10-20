@@ -39,3 +39,5 @@ listfile = open("listfile.txt", "w")
 
 for key, value in gifts.iteritems():
 	listfile.write(key + ": " + value + "\n")
+
+listfile.close()
