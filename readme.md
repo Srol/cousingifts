@@ -1,0 +1,1 @@
+This is a quick Python script I wrote to pick a gift match for each of the cousins on the Forte side of the family. It generates a .txt list, which I will not look at, to be sent to the parents of the family for distribution.
