@@ -1,11 +1,11 @@
 import random
 
 gifts = {}
-Hogans = ["Erin", "Patrick", "Jane"]
+Hogans = ["Damien", "Erin", "Patrick", "Jane"]
 Nyreens = ["Tom", "Kerry", "James", "Brendan"]
 Vetters = ["Juliana", "Mary", "Laura", "Elizabeth"]
 Jacobs = ["Galen", "Meghan"]
-allcousins = ["Erin", "Patrick", "Jane", "Tom", "Kerry", "James", "Brendan","Juliana", "Mary", "Laura", "Elizabeth","Galen", "Meghan"]
+allcousins = ["Damien", "Erin", "Patrick", "Jane", "Tom", "Kerry", "James", "Brendan","Juliana", "Mary", "Laura", "Elizabeth","Galen", "Meghan"]
 
 for cousin in Hogans:
 	match = random.choice(allcousins)
